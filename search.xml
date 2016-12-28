@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[本周回顾]]></title>
+      <url>%2F2016%2F12%2F23%2F%E6%9C%AC%E5%91%A8%E5%9B%9E%E9%A1%BE%2F</url>
+      <content type="text"><![CDATA[今天写了三个周报，讲了3个不同的事情一个给我的主管，讲事情一个给我的技术leader，讲技术最后讲生活 我: 大鹏，我要做开放平台的海报功能啦(￣▽￣)~*大鹏: Best Wishes…我: …… 然后就开始了一周的修bug之旅，中途很坎坷，不过还是在周五晚上敲完了最后一行代码 未完待续。。。]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[圣诞快乐]]></title>
+      <url>%2F2016%2F12%2F23%2F%E5%9C%A3%E8%AF%9E%E5%BF%AB%E4%B9%90%2F</url>
+      <content type="text"><![CDATA[今天刚进大门就有一个穿着圣诞装的白胡子怪蜀黍给我发了一把糖平时一脸正经的保安也带了一个帽子又到星期五了 可是我还有一堆bug要改]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[排序算法]]></title>
+      <url>%2F2016%2F12%2F22%2F%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%2F</url>
+      <content type="text"><![CDATA[冒泡排序：两两比较相邻记录的关键字，如果反序则交换，直到没有反序的记录为止 选择排序：通过n-i次关键字间的比较，从n-i+1个记录中选出关键字最小的记录，并和第i个记录交换 直接插入排序：将一个记录插入到已经排好序的有序列表中，从而得到一个新的、记录数增1的有序表 快速排序：通过一趟排序将待排记录分割成独立的两部分，其中一部分记录的关键字均比另一部分的关键字小，则可分别对这两部分记录继续进行排序，以达到整个序列有序的目的]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[天气]]></title>
+      <url>%2F2016%2F12%2F22%2F%E5%A4%A9%E6%B0%94%2F</url>
+      <content type="text"><![CDATA[时隔5天的雾霾终于在今天悄悄地走了北京的天还是很蓝的]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[高菀崧的小站建好啦]]></title>
+      <url>%2F2016%2F12%2F21%2F%E9%AB%98%E8%8F%80%E5%B4%A7%E7%9A%84%E5%B0%8F%E7%AB%99%E5%BB%BA%E5%A5%BD%E5%95%A6%2F</url>
+      <content type="text"><![CDATA[小站·菀崧你说你想有一个自己的网站 那么满足你]]></content>
+    </entry>
+
+    
+  
+  
+</search>
